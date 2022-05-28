@@ -1,2 +1,2 @@
-# Meu-projeto-Phyton
-Projeto pcriado na aula de GitHub
+# MeuProjetoPhyton
+Projeto criado na aula de GitHub
